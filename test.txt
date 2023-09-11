@@ -1,1 +1,51 @@
-What is Java..
+(1) What is Java..
+Ans:- Java is a high-level, object-oriented, and versatile
+ programming language that was first developed by Sun Microsystems (now owned by Oracle Corporation)
+ in the mid-1990s. It was designed with the goal of being platform-independent,
+ meaning that Java programs can run on various operating systems without modification. 
+This portability is achieved through the use of the Java Virtual Machine (JVM), which interprets and 
+executes Java bytecode, allowing it to run on different platforms that have a compatible JVM.
+
+Key characteristics and features of Java include:
+
+Platform Independence: Java applications are compiled into bytecode,
+ which can be executed on any system with a compatible JVM. This "write once,
+ run anywhere" capability makes Java popular for cross-platform development.
+
+Object-Oriented: Java is an object-oriented programming (OOP) language,
+ which means it encourages the use of objects, classes, and inheritance in software design.
+
+Robust: Java has built-in features for error handling and memory management, 
+helping to create reliable and stable applications.
+
+Secure: Java includes various security features, such as a security manager,
+ which can control the access to system resources, and a strong emphasis on
+ preventing common programming errors that can lead to security vulnerabilities.
+
+Multi-threading: Java has built-in support for multithreading, allowing developers to create
+ applications that can execute multiple tasks concurrently, making it suitable for
+ building scalable and responsive applications.
+
+Rich Standard Library: Java comes with a vast standard library (Java API)
+ that provides pre-built classes and methods for common programming tasks,
+ making development faster and more efficient.
+
+Community and Ecosystem: Java has a large and active developer community,
+ which has led to the creation of many open-source libraries and frameworks,
+ making it versatile for various application domains.
+
+Popular in Various Domains: Java is widely used in various domains,
+including web development (Java EE),
+mobile app development (Android), enterprise software,
+scientific computing, and more.
+
+Versions: Java has gone through several versions and updates over the years.
+The most recent long-term support (LTS) version as of my
+last knowledge update in September 2021 was Java 17. However,
+there may have been newer versions released since then.
+
+Java's versatility, performance, 
+and strong ecosystem have made it a popular choice for a wide range of
+applications and industries. Its ability to run on different platforms and its
+focus on security make it particularly suitable for mission-critical
+and enterprise-level software development.
