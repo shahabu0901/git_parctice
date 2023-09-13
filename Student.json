@@ -1,0 +1,42 @@
+
+{
+    "id" :10,
+    "code":"SESA01",
+    "subject": "Full Stack developer",
+    "Student":[{
+        "id":101,
+        "name" :"sanni",
+        "phone" :123,
+        "email":"abc@gmail.com",
+        "percentage" :"75%"
+    },
+    {
+        "id":102,
+        "name" :"Subham Kumar",
+        "phone" :9934403827,
+        "email":"subham@gmail.com",
+        "percentage" :"70%"
+    },
+    {
+        "id":103,
+        "name" :"Rahul",
+        "phone" :888,
+        "email":"abc@gmail.com",
+        "percentage" :"75%" 
+    },
+    {
+        "id":104,
+        "name" :"Shahzad",
+        "phone" :123789,
+        "email":"abc@gmail.com",
+        "percentage" :"75%"
+      },
+      {
+        "id":105,
+        "name" :"shabu",
+        "phone" :123021,
+        "email":"abc@gmail.com",
+        "percentage" :"75%"
+      }
+    ]
+  }
